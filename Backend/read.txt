@@ -1,0 +1,13 @@
+API BaseURL : http://localhost:9191
+
+Login EndPion: /auth/login
+
+Authentication EndPion: /auth/validate?userName=appu1
+
+ProcessDetail EndPion: /return/ProcessDetail
+
+CompleteProcessing EndPion: /return/CompleteProcessing/{requestId}/{cardNumber}/{creditLimit}/{processingCharge}
+
+ProcessDetails URL: http://localhost:9191/return/ProcessDetail/{userName}
+
+http://localhost:9094/registerNewUser
