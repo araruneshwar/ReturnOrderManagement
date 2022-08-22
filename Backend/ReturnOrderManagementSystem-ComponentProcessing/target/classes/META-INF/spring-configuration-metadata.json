@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.fse.ReturnOrderManagementSystem.ReturnOrderManagementSystemApplicationComponentProcessing",
+      "sourceType": "com.fse.ReturnOrderManagementSystem.ReturnOrderManagementSystemApplicationComponentProcessing"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

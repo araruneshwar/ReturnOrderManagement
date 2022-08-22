@@ -1,0 +1,13 @@
+com\fse\ReturnOrderManagementSystem\entity\DefectiveComponentDetail.class
+com\fse\ReturnOrderManagementSystem\ReturnOrderManagementSystemApplicationComponentProcessing.class
+com\fse\ReturnOrderManagementSystem\registry\ProcessingServiceFactory.class
+META-INF\spring-configuration-metadata.json
+com\fse\ReturnOrderManagementSystem\repository\DefectiveComponentRepository.class
+com\fse\ReturnOrderManagementSystem\dto\ProcessRequest.class
+com\fse\ReturnOrderManagementSystem\util\ComponentType.class
+com\fse\ReturnOrderManagementSystem\controller\ComponentProcessingController.class
+com\fse\ReturnOrderManagementSystem\service\ReplacementForAccessory.class
+com\fse\ReturnOrderManagementSystem\dto\ProcessResponse.class
+com\fse\ReturnOrderManagementSystem\service\RepairForIntegralService.class
+com\fse\ReturnOrderManagementSystem\exception\NotFoundException.class
+com\fse\ReturnOrderManagementSystem\service\ComponentProcessingService.class

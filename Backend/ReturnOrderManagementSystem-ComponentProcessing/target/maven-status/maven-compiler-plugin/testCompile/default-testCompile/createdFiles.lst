@@ -1,0 +1,6 @@
+com\fse\ReturnOrderManagementSystem\ReturnOrderManagementSystemApplicationComponentProcessingTests.class
+com\fse\ReturnOrderManagementSystem\service\ReplacementForAccessoryTest.class
+com\fse\ReturnOrderManagementSystem\controller\ComponentProcessingControllerTest.class
+com\fse\ReturnOrderManagementSystem\service\RepairForIntegralServiceTest.class
+com\fse\ReturnOrderManagementSystem\util\ComponentTypeTest.class
+com\fse\ReturnOrderManagementSystem\service\ComponentProcessingServiceTest.class

@@ -1,0 +1,11 @@
+com\fse\Authorization\entity\JwtResponseTest.class
+com\fse\Authorization\controller\JwtControllerTest.class
+com\fse\Authorization\ReturnOrderManagementSystemApplicationAuthorizationTests.class
+com\fse\Authorization\service\UserServiceTest.class
+com\fse\Authorization\entity\RoleTest.class
+com\fse\Authorization\service\RoleServiceTest.class
+com\fse\Authorization\service\JwtServiceTest.class
+com\fse\Authorization\controller\UserControllerTest.class
+com\fse\Authorization\entity\JwtRequestTest.class
+com\fse\Authorization\controller\RoleControllerTest.class
+com\fse\Authorization\entity\UserTest.class
