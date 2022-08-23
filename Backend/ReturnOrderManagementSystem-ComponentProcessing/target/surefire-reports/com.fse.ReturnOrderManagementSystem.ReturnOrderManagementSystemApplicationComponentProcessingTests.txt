@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.fse.ReturnOrderManagementSystem.ReturnOrderManagementSystemApplicationComponentProcessingTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.363 s - in com.fse.ReturnOrderManagementSystem.ReturnOrderManagementSystemApplicationComponentProcessingTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.354 s - in com.fse.ReturnOrderManagementSystem.ReturnOrderManagementSystemApplicationComponentProcessingTests

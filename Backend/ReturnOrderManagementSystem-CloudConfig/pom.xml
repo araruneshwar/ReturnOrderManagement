@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fse</groupId>
-	<artifactId>ReturnOrderManagementSystem</artifactId>
+	<artifactId>ReturnOrderManagementSystem-CloudConfig</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ReturnOrderManagementSystem-CloudConfig</name>
 	<description>Demo project for Spring Boot</description>
