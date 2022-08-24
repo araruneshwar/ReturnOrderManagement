@@ -67,4 +67,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://eureka.us-east-1.elasticbeanstalk.com/ 
+      defaultZone: http://127.0.0.0:8761 
